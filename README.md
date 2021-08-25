@@ -3,6 +3,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeokE&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeokE&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HyeokE)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Solve.ac rank
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhjeong00)](https://solved.ac/{jhjeong00})
