@@ -8,7 +8,7 @@
 
 ## Solve.ac rank
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhjeong00)](https://solved.ac/{jhjeong00})
+프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=jhjeong00)](https://solved.ac/{jhjeong00})
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jhjeong00)](https://solved.ac/{handle})
