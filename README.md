@@ -1,4 +1,4 @@
-### Hi there 👋
+### <div align="center"> Hi there 👋 I'm JunHyeok, a Frontend developer 👨‍💻 </div>  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeokE&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -17,6 +17,20 @@
 ## About me
 - 🌱 I’m currently learning React
 - 📫 How to reach me: jhjeong00@gmail.com, inStargram : @HYEOK_E_0 
+
+### <div align="center"> STACK</div>
+### <div align="center">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=TypeScript&logoColor=white)
+
+![React](https://img.shields.io/badge/React/ReactNative-61DAFB.svg?style=flat-square&logo=React&logoColor=white)
+![Create React App](https://img.shields.io/badge/CreateReactApp-09D3AC.svg?style=flat-square&logo=CreateReactApp&logoColor=white)
+![styled-components](https://img.shields.io/badge/styled-components-DB7093.svg?style=flat-square&logo=styled-components&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E.svg?style=flat-square&logo=Prettier&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3.svg?style=flat-square&logo=ESLint&logoColor=white)
+</div>
 
 <!--
 **HyeokE/HyeokE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
