@@ -1,6 +1,15 @@
-### <div align="center"> Hi there 👋 I'm JunHyeok, a Frontend developer 👨‍💻 </div>  
+## Hi there 👋 I'm JunHyeok 👨‍💻 
+### Google Developer Student Clubs Daejin Univsersity 2021 Lead
+## About me
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeokE&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning React
+
+- 📫 How to reach me: jhjeong00@gmail.com, inStargram : @HYEOK_E_0 
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeokE&show_icons=true&theme=ayu-mirage&layout=compact)
+](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HyeokE&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -9,16 +18,10 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=jhjeong00)](https://solved.ac/{jhjeong00})
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jhjeong00)](https://solved.ac/{handle})
 
 
 
-## About me
-- 🌱 I’m currently learning React
-- 📫 How to reach me: jhjeong00@gmail.com, inStargram : @HYEOK_E_0 
-
-### <div align="center"> STACK</div>
+## <div align="center">STACK</div>
 ### <div align="center">
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=CSS3&logoColor=white)
