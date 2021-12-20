@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning React
 
-- 📫 How to reach me: jhjeong00@gmail.com, inStargram : @HYEOK_E_0 
+- 📫 How to reach me: jhjeong00@gmail.com, Instargram : @HYEOK_E_0 
 
 
 
