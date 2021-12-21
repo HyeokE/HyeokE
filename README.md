@@ -28,11 +28,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=TypeScript&logoColor=white)
 
-![React](https://img.shields.io/badge/React/ReactNative-61DAFB.svg?style=flat-square&logo=React&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=React&logoColor=white)
+  ![React](https://img.shields.io/badge/ReactNative-61DAFB.svg?style=flat-square&logo=React&logoColor=white)
 ![Create React App](https://img.shields.io/badge/CreateReactApp-09D3AC.svg?style=flat-square&logo=CreateReactApp&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled-components-DB7093.svg?style=flat-square&logo=styled-components&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E.svg?style=flat-square&logo=Prettier&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3.svg?style=flat-square&logo=ESLint&logoColor=white)
+<!-- ![Prettier](https://img.shields.io/badge/Prettier-F7B93E.svg?style=flat-square&logo=Prettier&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3.svg?style=flat-square&logo=ESLint&logoColor=white) -->
 </div>
 
 <!--
