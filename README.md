@@ -35,10 +35,11 @@ Daejin Univsersity 2021 Lead
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HyeokE&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 ## Solve.ac rank
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=jhjeong00)](https://solved.ac/{jhjeong00})
-
+-->
 
 
 
