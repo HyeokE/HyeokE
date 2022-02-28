@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm JunHyeok 👨‍💻 
-### Google Developer Student Clubs 
-Daejin Univsersity 2021 Lead
+### Google Developer Student Clubs Daejin Univsersity 2021 Lead
 ## About me
 
 - 🌱 I’m currently learning React
@@ -11,13 +10,11 @@ Daejin Univsersity 2021 Lead
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=CSS3&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=TypeScript&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=React&logoColor=white)
-![React](https://img.shields.io/badge/ReactNative-61DAFB.svg?style=flat-square&logo=React&logoColor=white)
 ![Create React App](https://img.shields.io/badge/CreateReactApp-09D3AC.svg?style=flat-square&logo=CreateReactApp&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled-components-DB7093.svg?style=flat-square&logo=styled-components&logoColor=white)
 
