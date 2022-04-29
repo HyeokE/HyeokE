@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm JunHyeok 👨‍💻 
-### Google Developer Student Clubs Daejin Univsersity 2021 Lead
+### Google Developer Student Clubs Daejin University 2021 Lead
 ## About me
 
 - 🌱 I’m currently learning React
