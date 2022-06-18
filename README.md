@@ -39,7 +39,7 @@
 ](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HyeokE&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HyeokE&show_icons=true&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
