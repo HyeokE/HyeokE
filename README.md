@@ -11,7 +11,7 @@
 
   Email: jhjeong00@gmail.com, 
   
-  Instargram : [@HYEOK_E_0](https://www.instagram.com/hyeok_e_0/) 
+  Instagram : [@HYEOK_E_0](https://www.instagram.com/hyeok_e_0/) 
   
   Resume: [Public Resume](https://excessive-cheddar-885.notion.site/e0760eb125d44f69a4fa4b6522cce6ed)
 
