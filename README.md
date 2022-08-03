@@ -1,6 +1,11 @@
 ## Hi there 👋 I'm JunHyeok 👨‍💻 
-### Google Developer Student Clubs Daejin University 2022 Lead 2022. 08 ~
-### Google Developer Student Clubs Daejin University 2021 Lead 2021. 08 ~ 2022. 07. 31
+**Google Developer Student Clubs Daejin University 2022 Lead**
+
+-  2022 08 ~
+
+**Google Developer Student Clubs Daejin University 2021 Lead**
+
+-  2021 08 ~ 2022 07 31
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeokE&count_bg=%233886F6&title_bg=%23686868&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
