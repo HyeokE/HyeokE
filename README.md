@@ -43,8 +43,9 @@
 </div>
 <div style="display: flex; align-items: flex-start;">
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GDSC-Daejin&repo=gdsc-dju-websites&theme=ayu-mirage&layout=compact)](https://github.com/GDSC-Daejin/design-seed)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GDSC-Daejin&repo=design-seed&theme=ayu-mirage&layout=compact)](https://github.com/GDSC-Daejin/gdsc-dju-websites)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GDSC-Daejin&repo=gdsc-dju-websites&theme=ayu-mirage&layout=compact)](https://github.com/GDSC-Daejin/gdsc-dju-websites)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GDSC-Daejin&repo=design-seed&theme=ayu-mirage&layout=compact)]
+ (https://github.com/GDSC-Daejin/design-seed)
 </div>
 <div style="display: flex; align-items: flex-start;">
 
