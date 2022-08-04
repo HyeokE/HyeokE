@@ -26,7 +26,7 @@
 
 ## STACK
 
-<div align="center">
+<div style="display: flex; align-items: flex-start;">
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=white)
@@ -41,17 +41,18 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3.svg?style=flat-square&logo=ESLint&logoColor=white) -->
 
 </div>
+<div style="display: flex; align-items: flex-start;">
 
-
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GDSC-Daejin&repo=gdsc-dju-websites&theme=ayu-mirage&layout=compact)](https://github.com/GDSC-Daejin/gdsc-dju-websites)
-
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GDSC-Daejin&repo=gdsc-dju-websites&theme=ayu-mirage&layout=compact)](https://github.com/GDSC-Daejin/design-seed)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GDSC-Daejin&repo=design-seed&theme=ayu-mirage&layout=compact)](https://github.com/GDSC-Daejin/gdsc-dju-websites)
+</div>
+<div style="display: flex; align-items: flex-start;">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeokE&show_icons=true&theme=ayu-mirage&layout=compact)
 ](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HyeokE&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HyeokE&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Solve.ac rank
