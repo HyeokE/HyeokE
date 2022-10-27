@@ -9,7 +9,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeokE&count_bg=%233886F6&title_bg=%23686868&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
+[![wakatime](https://wakatime.com/badge/user/deeebcc1-c483-4d7c-a90b-2f4ab314f5ef.svg)](https://wakatime.com/@deeebcc1-c483-4d7c-a90b-2f4ab314f5ef)
 
 ## About me
 
@@ -48,9 +48,11 @@
 </div>
 <div style="display: flex; align-items: flex-start;">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeokE&show_icons=true&theme=ayu-mirage&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=HyeokE&show_icons=true&theme=ayu-mirage&layout=compact)
 ](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HyeokE&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeokE&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 </div>
 
