@@ -1,11 +1,11 @@
 ## Hi there 👋 I'm JunHyeok 👨‍💻 
+
+알아보기 쉬운 코드 작성을 위해 변수명과 로직에 대한 고민을 즐깁니다. 🤔
+배운것을 기록하고 정리하는 것을 좋아하며 주도적으로 개발하고 성장할 수 있는 환경을 좋아합니다
+
 **Google Developer Student Clubs Daejin University 2022 Lead**
 
--  2022 08 ~
-
-**Google Developer Student Clubs Daejin University 2021 Lead**
-
--  2021 08 ~ 2022 07 31
+-  2021 08 ~
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeokE&count_bg=%233886F6&title_bg=%23686868&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
