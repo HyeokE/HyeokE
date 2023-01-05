@@ -22,7 +22,7 @@
 
 - 📫 How to reach me 
 
-  Email: jhjeong00@gmail.com
+  Email: jhjeong00@gmail.com / jason.jeong@shoplworks.com
   
   Instagram : [@HYEOK_E_0](https://www.instagram.com/hyeok_e_0/) 
   
