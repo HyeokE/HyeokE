@@ -26,6 +26,8 @@
   
   Instagram : [@HYEOK_E_0](https://www.instagram.com/hyeok_e_0/) 
   
+  MyBlog: [Hyeok Dev](https://hyeok.dev/)
+  
 <!--   Resume: [Public Resume](https://excessive-cheddar-885.notion.site/e0760eb125d44f69a4fa4b6522cce6ed) -->
   
 
