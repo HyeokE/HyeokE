@@ -47,23 +47,40 @@
 
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3.svg?style=flat-square&logo=ESLint&logoColor=white) -->
 
-</div>
-<div style="display: flex; align-items: flex-start;">
+<a href="https://github.com/itaditya#gh-dark-mode-only">
+<img src="https://github-readme-stats.vercel.app/api?username=HyeokE&count_private=true&hide_border=true&theme=dark&bg_color=0E1116&icon_color=ffffff#gh-dark-mode-only"/>
+</a>
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GDSC-Daejin&repo=gdsc-dju-websites&theme=ayu-mirage&layout=compact)](https://github.com/GDSC-Daejin/gdsc-dju-websites)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GDSC-Daejin&repo=design-seed&theme=ayu-mirage&layout=compact)](https://github.com/GDSC-Daejin/design-seed)
-</div>
-<div style="display: flex; align-items: flex-start;">
+<a href="https://github.com/itaditya##gh-light-mode-only">
+<img src="https://github-readme-stats.vercel.app/api?username=HyeokE&count_private=true&icon_color=000000&hide_border=true&theme=light#gh-light-mode-only"/>
+</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=HyeokE&show_icons=true&theme=ayu-mirage&layout=compact)
-](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeokE&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
+<a href="https://github.com/itaditya#gh-dark-mode-only">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=HyeokE&layout=compact&hide_border=true&bg_color=0E1116&icon_color=ffffff&theme=dark#gh-dark-mode-only"/>
+</a>
+
+<a href="https://github.com/itaditya##gh-light-mode-only">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=HyeokE&layout=compact&icon_color=000000&hide_border=true&theme=light#gh-light-mode-only"/>
+</a>
+  
+  <br/>
+
+<a href="https://github.com/itaditya#gh-dark-mode-only">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyeokE&layout=compact&hide_border=true&bg_color=0E1116&icon_color=ffffff&theme=dark#gh-dark-mode-only&langs_count=4"/>
+</a>
+
+<a href="https://github.com/itaditya##gh-light-mode-only">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyeokE&langs_count=4&icon_color=000000&layout=compact&hide_border=true&theme=light#gh-light-mode-only"/>
+  
+</a>
 
 
 
-</div>
+<!-- </div> -->
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HyeokE&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HyeokE&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 ## Solve.ac rank
 
 [![Solved.ac
