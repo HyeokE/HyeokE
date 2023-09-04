@@ -22,11 +22,13 @@
 
 **2022**
 
-- [GDSC DJU Site v2](https://gdscdju.dev/) Develop
+- [GDSC DJU Web Services Monorepo](https://github.com/GDSC-Daejin/gdsc-dju-websites/tree/master)
+- [GDSC DJU Design System](https://github.com/GDSC-Daejin/design-seed)
+
 
 **2021**
 
-- 2021.12: GDSC DJU Site v1 Develop
+- 2021.12: [GDSC DJU Site](https://gdscdju.dev/)
 - 2021.08 ~ 2023.07: [GDSC(Google Developer Student Clubs) Daejin](https://gdsc.community.dev/daejin-university/) Lead
 - [GDSC X GDG Campus DevFest University](https://festa.io/events/1862) STAFF
   - 출석부 개발팀
