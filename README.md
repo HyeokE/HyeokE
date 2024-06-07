@@ -17,7 +17,7 @@
 
 #### 2204
 
-- 2024.05: [Quotalab] Frontend Engineer
+- 2024.05 ~ : Quotalab Frontend Engineer
 
 #### 2023
 
