@@ -14,11 +14,16 @@
 - MyBlog: [Hyeok Dev](https://hyeok.dev/)
 
 ## Experience
+
+#### 2204
+
+- 2024.05: [Quotalab] Frontend Engineer
+
 #### 2023
 
 - [2023 프론트엔드 트렌드 따라잡기](https://festa.io/events/3446) Speaker
 - 2023.03 ~ 현재: [Google Developer Groups Korea WebTech](https://gdg.community.dev/gdg-korea-webtech/) Organizer
-- 2023.01 ~ 현재: [Shopl&Company](https://www.shoplworks.com/) Frontend Engineer
+- 2023.01 ~ 2024.05: [Shopl&Company](https://www.shoplworks.com/) Frontend Engineer
 
 **2022**
 
