@@ -15,9 +15,9 @@
 
 ## Experience
 
-#### 2204
+#### 2024
 
-- 2024.05 ~ : Quotalab Frontend Engineer
+- 2024.05 ~ 현재: Quotalab Frontend Engineer
 
 #### 2023
 
