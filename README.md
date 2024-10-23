@@ -17,7 +17,7 @@
 
 #### 2024
 
-- 2024.05 ~ 현재: Quotalab Frontend Engineer
+- 2024.05 ~ 현재: [Quotalab](https://www.quotalab.com/) Frontend Engineer
 
 #### 2023
 
