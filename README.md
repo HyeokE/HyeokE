@@ -9,7 +9,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeokE&count_bg=%233886F6&title_bg=%23686868&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![wakatime](https://wakatime.com/badge/user/deeebcc1-c483-4d7c-a90b-2f4ab314f5ef.svg)](https://wakatime.com/@deeebcc1-c483-4d7c-a90b-2f4ab314f5ef)
 
-- Email: jhjeong00@gmail.com / jason.jeong@quotabook.com
+- Email: jhjeong00@gmail.com
 - Instagram : [@HYEOK_E_0](https://www.instagram.com/hyeok_e_0/) 
 - MyBlog: [Hyeok Dev](https://hyeok.dev/)
 
@@ -17,7 +17,7 @@
 
 #### 2024
 
-- 2024.05 ~ 현재: [Quotalab](https://www.quotalab.com/) Frontend Engineer
+- 2024.05 ~ 2025.01: [Quotalab](https://www.quotalab.com/) Frontend Engineer
 
 #### 2023
 
